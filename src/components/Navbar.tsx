@@ -18,5 +18,3 @@ function Jajal() {
     </div>
   );
 }
-
-export default Jajal;
